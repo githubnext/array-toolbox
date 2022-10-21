@@ -2,9 +2,4 @@
   "foo": [0, 1, 2, 3],
   "bar": [true, false, null],
   "mixed": ["blue", 42, true, 0.01],
-  "obj": {
-    "a": "banana",
-    "b": "apple",
-    "c": "orange"
-  }
 }

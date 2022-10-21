@@ -1,5 +1,21 @@
 # Array Toolbox
 
+Hey everyone, upgrade to the latest version please:
+
+### Version Usage
+
+<BlockComponent
+  block={{"owner":"jaked","repo":"mermaid-block","id":"mermaid-block","type":"file"}}
+context={{"repo":"array-toolbox","owner":"githubnext","path":"versionusage.mermaid","sha":"HEAD","file":"README.md"}}
+height={433}
+/>
+
+<BlockComponent
+  block={{"owner":"githubnext","repo":"blocks-examples","id":"excalidraw-block","type":"file"}}
+context={{"repo":"array-toolbox","owner":"githubnext","path":"diagram.excalidraw","sha":"HEAD","file":"README.md"}}
+/>
+
+
 This is a library for working with arrays!
 
 We'll be using this as the sample data for all the documentation:

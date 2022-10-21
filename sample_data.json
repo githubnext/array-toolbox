@@ -3,8 +3,8 @@
   bar: [true, false, null, undefined],
   mixed: ["blue", 42, true, 0.01],
   obj: {
-    a: "banana",
-    b: "apple",
-    c: "orange",
+    "a": "banana",
+    "b": "apple",
+    "c": "orange",
   }
 }
